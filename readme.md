@@ -1,5 +1,6 @@
 #This is a sample readm file
 
-this is a good code
-im a good developer
-this is a carefully checked develpment.
+this is a bad code
+im just coding for fun 
+
+console.log ("Hello world")
