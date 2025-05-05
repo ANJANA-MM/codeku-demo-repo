@@ -1,7 +1,8 @@
-This is a sample readm file
 
-this is a bad code
- console.log ("Hello world")
+This file is sample readme file'
+This is a good code
+console.log ("Hello world")
+
 
 
 
