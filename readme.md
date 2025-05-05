@@ -1,4 +1,7 @@
-#This is a sample readme file
+This is a sample readm file
 
-- feature-a branch  was added.
--feature-b was added..
+this is a bad code
+ console.log ("Hello world")
+
+
+
